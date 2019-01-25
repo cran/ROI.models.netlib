@@ -1,4 +1,4 @@
-71f32d6bb5b61d5152686ec51fd04f0d *DESCRIPTION
+ccc6ae0ad66582babda230afcf3f6e91 *DESCRIPTION
 ad6d9c6ab14f9c215afec2957009a75d *NAMESPACE
 85993c0ebbfebeb8c3040166d98df790 *R/netlib.R
 354dd8bd733fde7ee4210d32e0c08d21 *inst/roi_op/adlittle.rds
@@ -44,7 +44,7 @@ de22f41c1ef1a7aa3390e1581a0490cb *inst/roi_op/grow7.rds
 1232bd0edb1612e836c0844232669b90 *inst/roi_op/lotfi.rds
 a1f5bb979b57c2beafb4bb15c684a94b *inst/roi_op/maros.r7.rds
 84b16e7d6a96c49dbc02eabbe6701090 *inst/roi_op/maros.rds
-debc8f997c8b7a96c75785fd312bba3c *inst/roi_op/metainfo.rds
+f2fe37b80ffdcb8061e7ec4084547d23 *inst/roi_op/metainfo.rds
 a5e315c44de87ff3c205fd43d31c8e7a *inst/roi_op/modszk1.rds
 686dd32c1b12daf2ea918c5afda178f9 *inst/roi_op/nesm.rds
 0e15fea045dd8e2a0fafdfe6beed8e83 *inst/roi_op/perold.rds
@@ -96,5 +96,5 @@ b0f9082653fcdd6ffc9117a530310eb7 *inst/roi_op/wood1p.rds
 9fa0758129ed893c7fd2da63614c0d53 *inst/roi_op/woodw.rds
 67eeb9c9a3bd97234a4fe221617fc096 *inst/roi_op/x25fv47.rds
 04acee97085fd0826819217a53f5c891 *inst/roi_op/x80bau3b.rds
-e0add03a6ac59f2fac1d9e38d5521d2b *man/netlib.Rd
+0117eeab45914e974991746097768f9e *man/netlib.Rd
 f23693ef91a88b4c6c985e468230a9a1 *tests/test_netlib.R
